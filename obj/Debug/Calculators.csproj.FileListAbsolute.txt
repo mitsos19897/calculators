@@ -1,0 +1,9 @@
+c:\users\dim\documents\visual studio 2015\Projects\Calculators\Calculators\bin\Debug\Calculators.exe.config
+c:\users\dim\documents\visual studio 2015\Projects\Calculators\Calculators\bin\Debug\Calculators.exe
+c:\users\dim\documents\visual studio 2015\Projects\Calculators\Calculators\bin\Debug\Calculators.pdb
+c:\users\dim\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.csprojResolveAssemblyReference.cache
+c:\users\dim\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.Form1.resources
+c:\users\dim\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.Properties.Resources.resources
+c:\users\dim\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.csproj.GenerateResource.Cache
+c:\users\dim\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.exe
+c:\users\dim\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.pdb
